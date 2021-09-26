@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BasicApi"
+    "\\BasicApi",
+    "\\BasicApi\\Properties"
   ],
-  "SelectedNode": "\\BasicApi.sln",
+  "SelectedNode": "\\BasicApi\\obj",
   "PreviewInSolutionExplorer": false
 }

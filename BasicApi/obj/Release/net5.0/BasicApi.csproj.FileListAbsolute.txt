@@ -61,3 +61,13 @@ C:\Users\sungk\source\repos\BasicApi\BasicApi\obj\Release\net5.0\BasicApi.dll
 C:\Users\sungk\source\repos\BasicApi\BasicApi\obj\Release\net5.0\ref\BasicApi.dll
 C:\Users\sungk\source\repos\BasicApi\BasicApi\obj\Release\net5.0\BasicApi.pdb
 C:\Users\sungk\source\repos\BasicApi\BasicApi\obj\Release\net5.0\BasicApi.genruntimeconfig.cache
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.csprojAssemblyReference.cache
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.AssemblyInfoInputs.cache
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.AssemblyInfo.cs
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.csproj.CoreCompileInputs.cache
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.dll
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\ref\BasicApi.dll
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Release\net5.0\BasicApi.pdb

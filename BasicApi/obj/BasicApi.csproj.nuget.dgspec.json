@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sungk\\Source\\Repos\\BasicApix\\BasicApi\\BasicApi.csproj": {}
+    "C:\\Users\\sungk\\source\\repos\\BasicApix\\BasicApi\\BasicApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sungk\\Source\\Repos\\BasicApix\\BasicApi\\BasicApi.csproj": {
+    "C:\\Users\\sungk\\source\\repos\\BasicApix\\BasicApi\\BasicApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sungk\\Source\\Repos\\BasicApix\\BasicApi\\BasicApi.csproj",
+        "projectUniqueName": "C:\\Users\\sungk\\source\\repos\\BasicApix\\BasicApi\\BasicApi.csproj",
         "projectName": "BasicApi",
-        "projectPath": "C:\\Users\\sungk\\Source\\Repos\\BasicApix\\BasicApi\\BasicApi.csproj",
+        "projectPath": "C:\\Users\\sungk\\source\\repos\\BasicApix\\BasicApi\\BasicApi.csproj",
         "packagesPath": "C:\\Users\\sungk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sungk\\Source\\Repos\\BasicApix\\BasicApi\\obj\\",
+        "outputPath": "C:\\Users\\sungk\\source\\repos\\BasicApix\\BasicApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -20,10 +20,10 @@ namespace BasicApi.Controllers
     public class CardController : ControllerBase
     {
         private readonly ICardFactoryService _cardFactoryService;
-        private readonly ILogger<WeatherForecastController> _logger;
+        private readonly ILogger<CardController> _logger;
 
         public CardController(ICardFactoryService cardFactoryService
-                            , ILogger<WeatherForecastController> logger)
+                            , ILogger<CardController> logger)
         {
             _cardFactoryService = cardFactoryService;
             _logger = logger;

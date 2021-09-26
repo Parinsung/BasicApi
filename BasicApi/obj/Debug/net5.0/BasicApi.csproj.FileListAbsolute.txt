@@ -60,3 +60,4 @@ C:\Users\sungk\Source\Repos\BasicApix\BasicApi\obj\Debug\net5.0\BasicApi.dll
 C:\Users\sungk\Source\Repos\BasicApix\BasicApi\obj\Debug\net5.0\ref\BasicApi.dll
 C:\Users\sungk\Source\Repos\BasicApix\BasicApi\obj\Debug\net5.0\BasicApi.pdb
 C:\Users\sungk\Source\Repos\BasicApix\BasicApi\obj\Debug\net5.0\BasicApi.genruntimeconfig.cache
+C:\Users\sungk\source\repos\BasicApix\BasicApi\obj\Debug\net5.0\BasicApi.csprojAssemblyReference.cache
